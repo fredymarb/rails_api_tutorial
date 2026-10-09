@@ -130,7 +130,7 @@ GEM
       activesupport (>= 6.1)
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
-    image_processing (2.1.0)
+    image_processing (2.2.0)
     io-console (0.9.4)
     irb (1.18.0)
       pp (>= 0.6.0)
@@ -381,7 +381,7 @@ DEPENDENCIES
   debug
   devise
   devise-jwt
-  image_processing (~> 2.1)
+  image_processing (~> 2.2)
   json (< 3)
   jsonapi-serializer
   kamal
@@ -439,7 +439,7 @@ CHECKSUMS
   fugit (1.14.0) sha256=e311a9cc85a54bb67649df45060e721282a1e2c8ebad40e41874a3a7d576f37e
   globalid (1.4.0) sha256=037f12fbf1d9d7a014d501c2d5c77356fd4ddd96d7a7991d6700bba96706f427
   i18n (1.15.2) sha256=00f9eb62412fe593b2a65a97daa75300d37abb8f7202ec748e94b6d46a9dd1b5
-  image_processing (2.1.0) sha256=ca3814b1b909fc5fab68b261c50eaffef11e29a6907143e9cf1efc14b6dc6f47
+  image_processing (2.2.0) sha256=e0cb9892a4395ac2b7bb2fac5c6f5bc63361f2f18ed08773e21fce5b111c6974
   io-console (0.9.4) sha256=a403304f32928ee85e56d457b4612ca43f2703b561a3258844992bd24085fbb1
   irb (1.18.0) sha256=de9454a0703a54704b9811a5ef31a60c86949fbf4013fcf244fabc7c775248e3
   json (2.21.2) sha256=1f1d3b7cf2b3ba1a69beca0bb6db13d5438b80bff3cd54cdaaa620b9b07c1c6a
