@@ -5,7 +5,7 @@ gem "rails", "~> 8.1.3", ">= 8.1.3.1"
 
 # This fixes compatibility issues with the json gem in Rails 8
 # api doesn't work well with json gem version 3 or higher
-gem "json", "< 3"
+gem "json", "< 4"
 
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
